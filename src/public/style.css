@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+}
+canvas{
+ 
+    display: block;
+}
+div{
+    width: 470px;
+    height: 470px;
+    background-image: url("https://rucsm.org/cs/outreach/ramp/subpages/resources/stuff/assets/assets_TTT/ttt_board.png");
+
+}
